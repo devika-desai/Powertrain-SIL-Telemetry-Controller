@@ -5,7 +5,7 @@ powertrain-sil-telemetry-controller/
 │
 ├── firmware/                          # Microcontroller implementation
 │   ├── main.py                        # RP2040 MicroPython acquisition & FDI logic
-│   └── diagram.json                   # Wokwi virtual hardware configuration
+│   └── wokwi_hardwear.png             # Wokwi virtual hardware configuration
 │
 ├── pipeline/                          # Data engineering & pipeline
 │   ├── process_telemetry.py           # Ingestion, validation, and normalization
