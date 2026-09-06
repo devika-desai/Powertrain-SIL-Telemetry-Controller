@@ -12,9 +12,8 @@ powertrain-sil-telemetry-controller/
 │   └── telemetry_raw.csv              # Raw telemetry log from virtual node
 │
 ├── sim/                               # Model-Based Design (MBD)
-│   ├── clean_telemetry.csv            # Processed timeseries ingested by MATLAB
-│   ├── load_telemetry.m               # Script defining workspace timeseries objects
-│   └── powertrain_safety.slx          # Simulink supervisory safety controller
+│   ├── run_telemetry.m                # Script defining workspace timeseries objects
+│   └── telemetry.slx                  # Simulink supervisory safety controller
 │
 └── docs/                              # Evidence & specifications
     ├── SRS_STS_Powertrain_Safety.pdf
