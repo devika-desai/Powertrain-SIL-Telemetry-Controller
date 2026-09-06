@@ -18,8 +18,7 @@ powertrain-sil-telemetry-controller/
 └── docs/                              # Evidence & specifications
     ├── SRS_STS_Powertrain_Safety.pdf
     ├── Calibration_Report.pdf
-    └── img/
-        ├── simulink_model.png
-        ├── scope_trace_50C.png
-        ├── scope_trace_92C.png
-        └── scope_trace_98C.png
+    ├── simulink_model.png
+    ├── scope_trace_50C.png
+    ├── scope_trace_92C.png
+    └── scope_trace_98C.png
