@@ -20,6 +20,6 @@ powertrain-sil-telemetry-controller/
     ├── Calibration_Report.pdf
     └── img/
         ├── simulink_model.png
-        ├── scope_trace_80C.png
+        ├── scope_trace_50C.png
         ├── scope_trace_92C.png
         └── scope_trace_98C.png
